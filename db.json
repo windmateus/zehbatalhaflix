@@ -1,16 +1,162 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria bacana",
-            "cor": "#cbd1ff"
-        },
-        {
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "Outra categoria",
-            "cor": "#cbd1ff"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Investimentos",
+      "cor": "red",
+      "link_extra": {
+        "text": "Zé Batalha Investimentos, Tecnologia e Perseverança",
+        "url": "https://windmateus.blogspot.com/"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Tecnologia",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 3,
+      "titulo": "Filmes",
+      "cor": "orange"
+    },
+    {
+      "id": 4,
+      "titulo": "Tokyo 4K & 8K",
+      "cor": "#9cd33b"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "When Do I Buy a Stock Exactly - the Way Warren Buffet Knows When to Buy a Stock Learn to Invest há 1 ano 9 minutos e 14 segundos 58.859 visualizações",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=6Lu71eyaLoo"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Nova nota de R$200, mais INFLAÇÃO adiante?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=6Qgqzn0408c"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Você é mais esperto que o mercado? | Estatísticas sobre Investimentos",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=DUB7sYUUtVw"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Disney Stock Analysis - is Disney's Stock a Good Buy Today? $DIS Stock Analysis",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ybe6ZX494Yk"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Em que ponto do ciclo a economia se encontra?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-Yy3bdp5WNI"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "The SpaceX Competitor is Printing Its Rockets",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=zeQTrWU1RlU"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "How Finland Survived The iPhone",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=s1bHiSnuNaI"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "What Earth Looks Like When Everything Stops",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=bcfVN7GKDX0"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Lembra Daquela I.A. Que Programava Sozinha? Então...",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Welcome To Your Home in Space",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=m74c1vzQBFU"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "Interestellar",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "Gattaca",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "A Chegada",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Feitiço do Tempo",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+    },
+    {
+      "id": 15,
+      "categoriaId": 4,
+      "titulo": "Tokyo Night View",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=LXUSzXfdq_0"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "Japan Night Aerials in 8K",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=6k7a8bw451M"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Shibuya Tokyo 4K HD",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=tNJSm_tFo8k"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Cyberpunk 2018 TOKYO Shinjuku 4K",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=DrHVi0GCFyc"
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://www.youtube.com/watch?v=AWKkBFGz6dk",
+      "categoriaId": 1,
+      "id": 19
+    }
+  ]
 }

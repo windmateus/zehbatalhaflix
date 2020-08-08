@@ -1,0 +1,147 @@
+{
+    "categorias": [
+      {
+        "titulo": "Investimentos",
+        "cor": "red",
+        "link_extra": {
+          "text": "Zé Batalha Investimentos, Tecnologia e Perseverança",
+          "url": "https://windmateus.blogspot.com/"
+        },
+        "videos": [
+          {
+            "titulo": "Você é mais esperto que o mercado? | Estatísticas sobre Investimentos",
+            "url": "https://www.youtube.com/watch?v=DUB7sYUUtVw"
+          },
+          {
+            "titulo": "Nova nota de R$200, mais INFLAÇÃO adiante?",
+            "url": "https://www.youtube.com/watch?v=6Qgqzn0408c"
+          },
+          {
+            "titulo": "When Do I Buy a Stock Exactly - the Way Warren Buffet Knows When to Buy a Stock Learn to Invest há 1 ano 9 minutos e 14 segundos 58.859 visualizações",
+            "url": "https://www.youtube.com/watch?v=6Lu71eyaLoo"
+          },
+          {
+            "titulo": "Disney Stock Analysis - is Disney's Stock a Good Buy Today? $DIS Stock Analysis",
+            "url": "https://www.youtube.com/watch?v=ybe6ZX494Yk"
+          },
+          {
+            "titulo": "Em que ponto do ciclo a economia se encontra?",
+            "url": "https://www.youtube.com/watch?v=-Yy3bdp5WNI"
+          }
+        ]
+      },
+      {
+        "titulo": "Tecnologia",
+        "cor": "#00C86F",
+        "videos": [
+          {
+            "titulo": "The SpaceX Competitor is Printing Its Rockets",
+            "url": "https://www.youtube.com/watch?v=zeQTrWU1RlU"
+          },
+          {
+            "titulo": "How Finland Survived The iPhone",
+            "url": "https://www.youtube.com/watch?v=s1bHiSnuNaI"
+          },
+          {
+            "titulo": "What Earth Looks Like When Everything Stops",
+            "url": "https://www.youtube.com/watch?v=bcfVN7GKDX0"
+          },
+          {
+            "titulo": "Lembra Daquela I.A. Que Programava Sozinha? Então...",
+            "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
+          }, 
+          {
+            "titulo": "Welcome To Your Home in Space",
+            "url": "https://www.youtube.com/watch?v=m74c1vzQBFU"
+          }
+        ]
+      },
+      {
+        "titulo": "Front End",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Formação de Front End na Alura",
+          "url": "https://www.alura.com.br/cursos-online-front-end"
+        },
+        "videos": [
+          {
+            "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          },
+          {
+            "titulo": "SEO com React",
+            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          },
+          {
+            "titulo": "Componentização com VanillaJS #AluraMais",
+            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          },
+          {
+            "titulo": "Pare de chutar e aprenda a display: inline #01",
+            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          },
+          {
+            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          },
+          {
+            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          },
+          {
+            "titulo": "Novidades do Angular v9",
+            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          },
+          {
+            "titulo": "Base para aprender os frameworks",
+            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          }        
+        ]
+      },
+      {
+        "titulo": "Filmes",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "Interestellar",
+            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          },
+          {
+            "titulo": "Gattaca",
+            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          },
+          {
+            "titulo": "A Chegada",
+            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          },
+          {
+            "titulo": "Feitiço do Tempo",
+            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          }
+        ]
+      },
+      {
+        "titulo": "Tokyo 4K & 8K",
+        "cor": "#9cd33b",
+        "videos": [
+          {
+            "titulo": "Tokyo Night View",
+            "url": "https://www.youtube.com/watch?v=LXUSzXfdq_0"
+          },
+          {
+            "titulo": "Japan Night Aerials in 8K",
+            "url": "https://www.youtube.com/watch?v=6k7a8bw451M"
+          },
+          {
+            "titulo": "Shibuya Tokyo 4K HD",
+            "url": "https://www.youtube.com/watch?v="
+          },
+          {
+            "titulo": "Cyberpunk 2018 TOKYO Shinjuku 4K",
+            "url": "https://www.youtube.com/watch?v=DrHVi0GCFyc"
+          }
+        ]
+      }
+    ]
+  }
