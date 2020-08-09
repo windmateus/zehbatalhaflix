@@ -57,9 +57,9 @@
     {
       "id": 5,
       "categoriaId": 1,
-      "titulo": "Em que ponto do ciclo a economia se encontra?",
+      "titulo": "Os setores e ações da Bolsa mais impactados pelas Quarentenas",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=-Yy3bdp5WNI"
+      "url": "https://www.youtube.com/watch?v=_1XMSB_jxh8"
     },
     {
       "id": 6,
@@ -85,9 +85,9 @@
     {
       "id": 9,
       "categoriaId": 2,
-      "titulo": "Lembra Daquela I.A. Que Programava Sozinha? Então...",
+      "titulo": "Inside China's High-tech Dystopia",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
+      "url": "https://www.youtube.com/watch?v=ydPqKhgh9Mg"
     },
     {
       "id": 10,
@@ -99,9 +99,9 @@
     {
       "id": 11,
       "categoriaId": 3,
-      "titulo": "Interestellar",
+      "titulo": "Um sonho de liberdade",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "url": "https://www.youtube.com/watch?v=v1nZq1vfgSw"
     },
     {
       "id": 12,
@@ -113,16 +113,16 @@
     {
       "id": 13,
       "categoriaId": 3,
-      "titulo": "A Chegada",
+      "titulo": "Ghost in the Shell",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "url": "https://www.youtube.com/watch?v=be06DHnJBOc"
     },
     {
       "id": 14,
       "categoriaId": 3,
-      "titulo": "Feitiço do Tempo",
+      "titulo": "O Ultimato Bourne",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "url": "https://www.youtube.com/watch?v=OTskAEZvRuU"
     },
     {
       "id": 15,
@@ -151,12 +151,6 @@
       "titulo": "Cyberpunk 2018 TOKYO Shinjuku 4K",
       "description": "",
       "url": "https://www.youtube.com/watch?v=DrHVi0GCFyc"
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=AWKkBFGz6dk",
-      "categoriaId": 1,
-      "id": 19
     }
   ]
 }
